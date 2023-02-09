@@ -19,7 +19,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ### Fig 2 - Total Summary DataFrame
 ![image](https://user-images.githubusercontent.com/114360511/217733428-8b546bee-c212-40be-8ce2-52aed1fd7f73.png)
-### Fig 3 - Lot Summary DataFrame
+### Fig 3 - Individual Lot Summary DataFrame
 ![image](https://user-images.githubusercontent.com/114360511/217733531-d40109f9-28fc-467f-91bb-c25be0de936c.png)
 
 
@@ -27,10 +27,10 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
-### Fig 4 - Lot T-Test
-![image](https://user-images.githubusercontent.com/114360511/217733753-5f083dd7-1d06-43ac-be87-0b78a62de116.png)
-### Fig 5 - Total T-Test
+### Fig 4 - All Lots(combined) One Sample T-Test Against Population Mean (1500 psi)
 ![image](https://user-images.githubusercontent.com/114360511/217733771-bd527b42-18d2-4a22-bea1-d6217f346807.png)
+### Fig 5 - Individual Lot One Sample T-Tests Against Population Mean (1500 psi)
+![image](https://user-images.githubusercontent.com/114360511/217733753-5f083dd7-1d06-43ac-be87-0b78a62de116.png)
 
 
 ## Study Design: MechaCar vs Competition

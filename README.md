@@ -18,7 +18,7 @@ Write a short summary using screenshots from your total_summary and lot_summary 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 ### Fig 2 - Total Summary DataFrame
-***ADD IMAGE***
+![image](https://user-images.githubusercontent.com/114360511/217743701-b340498f-c9e7-4466-94ab-fd2a7cb4c7f4.png)
 ### Fig 3 - Individual Lot Summary DataFrame
 ![image](https://user-images.githubusercontent.com/114360511/217733531-d40109f9-28fc-467f-91bb-c25be0de936c.png)
 
